@@ -13,10 +13,8 @@ Este repositório contém um sistema completo de gerenciamento de concessionári
 
 📂 Estrutura do Projeto:
 main.cpp → Código principal do sistema
-Carro.h / Carro.cpp → Classe para representar os veículos
-Concessionaria.h / Concessionaria.cpp → Gestão dos carros e operações
-database.bin → Armazena os dados dos veículos em formato binário
-dados.csv → Arquivo CSV para importação/exportação de veículos
+carros_dados_completos.csv → Arquivo CSV para importação/exportação de veículos
+
 🛠️ Tecnologias Utilizadas:
 🚀 C++ Moderno (Padrões C++11/C++17)
 📂 Manipulação de arquivos (binário e CSV)
