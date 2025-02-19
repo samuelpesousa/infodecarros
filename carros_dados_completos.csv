@@ -1,0 +1,100 @@
+ID,Gol,2004,Volkswagen,1.35,1020.19,Cinza,Coreia do Sul,Gasolina,Manual,349.2,167
+1,Polo,2019,Volkswagen,1.6,1623.86,Prata,França,Híbrido,CVT,400.14,255
+2,Virtus,2017,Volkswagen,1.37,1749.89,Preto,EUA,Etanol,Automático,245.16,325
+3,Jetta,2001,Volkswagen,1.42,922.35,Branco,Japão,Híbrido,Manual,542.04,268
+4,Ka,2014,Ford,1.32,928.18,Cinza,Alemanha,Etanol,Manual,170.04,281
+5,Fiesta,2023,Ford,1.5,992.46,Azul,Japão,Híbrido,Automático,221.79,326
+6,Focus,2004,Ford,1.57,1057.1,Branco,Coreia do Sul,Etanol,CVT,159.46,171
+7,EcoSport,2014,Ford,1.5,971.77,Cinza,EUA,Híbrido,Manual,436.96,260
+8,Argo,2005,Fiat,1.48,1506.97,Branco,Itália,Elétrico,CVT,500.44,348
+9,Cronos,2006,Fiat,1.67,871.04,Preto,Alemanha,Gasolina,Automático,332.24,143
+10,Pulse,2006,Fiat,1.63,1165.87,Verde,Japão,Gasolina,Manual,434.26,169
+11,Mobi,2020,Fiat,1.4,1107.56,Branco,EUA,Elétrico,CVT,362.88,257
+12,Civic,2007,Honda,1.63,1739.42,Branco,EUA,Híbrido,Automático,562.74,331
+13,HR-V,2020,Honda,1.58,1313.51,Prata,Alemanha,Elétrico,Automático,189.1,155
+14,Fit,2009,Honda,1.76,1722.77,Azul,Brasil,Híbrido,Semi-automático,331.92,225
+15,WR-V,2022,Honda,1.38,1799.64,Preto,Japão,Diesel,Manual,576.51,269
+16,Corolla,2005,Toyota,1.35,1978.16,Azul,Alemanha,Diesel,Semi-automático,487.8,168
+17,Yaris,2022,Toyota,1.65,969.46,Prata,Itália,Gasolina,Automático,493.62,183
+18,RAV4,2015,Toyota,1.47,1575.28,Preto,Coreia do Sul,Etanol,CVT,231.4,339
+19,Hilux,2012,Toyota,1.69,993.41,Vermelho,França,Etanol,Semi-automático,327.72,196
+20,Onix,2008,Chevrolet,1.73,1661.9,Prata,Alemanha,Híbrido,Semi-automático,200.69,193
+21,Tracker,2021,Chevrolet,1.42,899.49,Prata,Alemanha,Diesel,Semi-automático,527.33,242
+22,Cruze,2000,Chevrolet,1.54,994.58,Vermelho,Coreia do Sul,Diesel,Automático,596.58,339
+23,Spin,2010,Chevrolet,1.47,1018.3,Azul,Brasil,Elétrico,Semi-automático,153.63,307
+24,HB20,2003,Hyundai,1.6,1461.92,Azul,Coreia do Sul,Diesel,Automático,436.24,173
+25,Creta,2013,Hyundai,1.61,1598.35,Branco,EUA,Etanol,CVT,163.49,149
+26,Kona,2006,Hyundai,1.33,975.61,Verde,Brasil,Híbrido,CVT,196.72,242
+27,Santa Fe,2011,Hyundai,1.37,1457.34,Prata,Alemanha,Gasolina,Semi-automático,161.86,260
+28,Renegade,2013,Jeep,1.33,1905.94,Vermelho,Alemanha,Diesel,Semi-automático,296.39,299
+29,Compass,2005,Jeep,1.79,1015.29,Azul,Japão,Etanol,CVT,463.4,142
+30,Grand Cherokee,2002,Jeep,1.55,1365.03,Preto,Itália,Gasolina,CVT,269.43,302
+31,Wrangler,2005,Jeep,1.72,1215.94,Verde,EUA,Etanol,Manual,311.51,278
+32,Kwid,2006,Renault,1.62,1691.91,Azul,Japão,Diesel,Semi-automático,512.97,340
+33,Duster,2001,Renault,1.39,863.02,Prata,Coreia do Sul,Híbrido,Semi-automático,164.27,192
+34,Captur,2017,Renault,1.42,1113.64,Branco,Alemanha,Gasolina,Manual,197.37,142
+35,Logan,2002,Renault,1.63,1259.41,Preto,Itália,Elétrico,Manual,577.82,190
+36,C3,2023,Citroën,1.55,1492.01,Prata,EUA,Etanol,CVT,332.2,238
+37,C4 Cactus,2023,Citroën,1.35,922.59,Verde,França,Híbrido,Automático,454.6,155
+38,Aircross,2005,Citroën,1.45,1659.12,Preto,França,Híbrido,CVT,338.22,274
+39,Berlingo,2011,Citroën,1.69,925.73,Verde,Itália,Elétrico,Automático,242.93,144
+40,308,2005,Peugeot,1.69,1037.63,Verde,França,Híbrido,Semi-automático,474.0,144
+41,3008,2016,Peugeot,1.53,1878.47,Preto,França,Híbrido,Automático,364.91,265
+42,208,2022,Peugeot,1.71,1965.97,Prata,Alemanha,Híbrido,Automático,440.78,260
+43,Partner,2006,Peugeot,1.61,1001.9,Cinza,Itália,Híbrido,CVT,522.99,294
+44,Sandero,2009,Renault,1.36,1321.83,Verde,Alemanha,Elétrico,Manual,202.37,311
+45,Versa,2008,Nissan,1.65,1460.8,Verde,Coreia do Sul,Gasolina,Manual,336.67,203
+46,Kicks,2002,Nissan,1.39,1473.65,Vermelho,Alemanha,Híbrido,CVT,353.07,171
+47,March,2021,Nissan,1.46,894.68,Preto,Brasil,Diesel,Automático,356.03,220
+48,Ranger,2005,Ford,1.75,1759.13,Cinza,Brasil,Diesel,CVT,560.81,350
+49,Amarok,2017,Volkswagen,1.49,1737.01,Preto,EUA,Elétrico,Automático,218.35,225
+50,Frontier,2020,Nissan,1.55,1768.6,Preto,Alemanha,Diesel,Semi-automático,402.99,205
+51,L200,2012,Mitsubishi,1.71,1526.4,Verde,Brasil,Etanol,CVT,382.84,168
+52,Gol,2010,Volkswagen,1.44,935.81,Azul,EUA,Gasolina,Manual,447.5,183
+53,Polo,2003,Volkswagen,1.46,864.37,Branco,França,Gasolina,CVT,185.8,348
+54,Virtus,2012,Volkswagen,1.38,802.92,Vermelho,Brasil,Híbrido,Automático,264.05,227
+55,Jetta,2017,Volkswagen,1.62,911.23,Branco,Coreia do Sul,Etanol,Manual,297.46,257
+56,Ka,2006,Ford,1.62,1294.89,Prata,Brasil,Elétrico,CVT,515.43,346
+57,Fiesta,2013,Ford,1.31,863.12,Branco,Coreia do Sul,Etanol,Automático,597.93,195
+58,Focus,2021,Ford,1.49,1913.73,Cinza,França,Etanol,Manual,558.78,178
+59,EcoSport,2001,Ford,1.71,1826.54,Vermelho,Japão,Híbrido,CVT,159.51,205
+60,Argo,2017,Fiat,1.48,1862.49,Cinza,Alemanha,Diesel,Manual,465.55,185
+61,Cronos,2022,Fiat,1.44,1611.22,Branco,Japão,Híbrido,Manual,302.92,343
+62,Pulse,2008,Fiat,1.44,1832.17,Azul,Itália,Diesel,Automático,457.17,184
+63,Mobi,2005,Fiat,1.76,942.94,Vermelho,França,Etanol,Automático,405.04,250
+64,Civic,2000,Honda,1.33,1247.44,Azul,EUA,Etanol,CVT,437.45,254
+65,HR-V,2020,Honda,1.5,1953.11,Azul,EUA,Etanol,CVT,362.15,213
+66,Fit,2018,Honda,1.31,1218.36,Prata,França,Diesel,Manual,342.85,144
+67,WR-V,2011,Honda,1.76,1755.28,Prata,Alemanha,Gasolina,Automático,352.07,217
+68,Corolla,2021,Toyota,1.65,963.9,Preto,EUA,Diesel,Manual,370.4,159
+69,Yaris,2020,Toyota,1.41,1627.25,Verde,Japão,Etanol,CVT,556.95,241
+70,RAV4,2005,Toyota,1.42,1574.08,Prata,EUA,Etanol,Semi-automático,352.46,201
+71,Hilux,2020,Toyota,1.68,1511.38,Vermelho,Alemanha,Gasolina,Semi-automático,285.59,227
+72,Onix,2018,Chevrolet,1.66,1952.23,Azul,Coreia do Sul,Híbrido,CVT,429.6,329
+73,Tracker,2022,Chevrolet,1.76,1480.66,Cinza,Brasil,Etanol,Semi-automático,374.2,270
+74,Cruze,2006,Chevrolet,1.36,1030.31,Branco,Japão,Gasolina,Manual,585.23,277
+75,Spin,2015,Chevrolet,1.8,1859.87,Prata,Itália,Gasolina,Manual,296.26,203
+76,HB20,2007,Hyundai,1.54,1634.65,Cinza,Japão,Gasolina,Automático,215.99,229
+77,Creta,2013,Hyundai,1.77,807.85,Verde,França,Híbrido,Automático,175.01,181
+78,Kona,2015,Hyundai,1.43,851.81,Prata,Japão,Diesel,CVT,182.2,143
+79,Santa Fe,2003,Hyundai,1.35,1928.7,Preto,Brasil,Etanol,CVT,234.38,163
+80,Renegade,2007,Jeep,1.46,1834.28,Cinza,EUA,Híbrido,Semi-automático,186.01,302
+81,Compass,2003,Jeep,1.63,1076.71,Verde,Coreia do Sul,Gasolina,Automático,335.05,303
+82,Grand Cherokee,2002,Jeep,1.55,1178.93,Verde,Alemanha,Gasolina,Manual,382.02,241
+83,Wrangler,2003,Jeep,1.66,1010.36,Prata,EUA,Diesel,CVT,503.78,242
+84,Kwid,2018,Renault,1.54,1208.75,Branco,Brasil,Híbrido,Automático,248.1,305
+85,Duster,2002,Renault,1.38,1155.3,Preto,Itália,Etanol,Automático,270.52,303
+86,Captur,2006,Renault,1.55,1125.69,Prata,Alemanha,Elétrico,CVT,189.89,320
+87,Logan,2017,Renault,1.65,1765.17,Preto,Coreia do Sul,Híbrido,Semi-automático,550.74,253
+88,C3,2016,Citroën,1.5,1182.54,Vermelho,Itália,Etanol,Automático,156.86,241
+89,C4 Cactus,2003,Citroën,1.33,1659.47,Vermelho,Alemanha,Diesel,Automático,287.61,212
+90,Aircross,2002,Citroën,1.6,1893.69,Prata,Alemanha,Gasolina,Automático,381.86,348
+91,Berlingo,2010,Citroën,1.44,1051.85,Preto,Itália,Híbrido,CVT,411.07,349
+92,308,2007,Peugeot,1.62,1848.19,Prata,Alemanha,Etanol,Manual,257.64,256
+93,3008,2016,Peugeot,1.46,817.08,Prata,Brasil,Gasolina,CVT,456.66,301
+94,208,2000,Peugeot,1.61,950.76,Verde,França,Diesel,Semi-automático,376.29,225
+95,Partner,2006,Peugeot,1.77,1988.48,Azul,Alemanha,Diesel,CVT,175.88,174
+96,Sandero,2020,Renault,1.79,919.28,Verde,França,Elétrico,Automático,387.69,259
+97,Versa,2009,Nissan,1.59,1572.65,Vermelho,Itália,Híbrido,CVT,230.21,258
+98,Kicks,2010,Nissan,1.32,924.47,Vermelho,Japão,Etanol,Manual,162.62,247
+99,March,2018,Nissan,1.6,1093.43,Azul,Coreia do Sul,Híbrido,Automático,342.32,158
