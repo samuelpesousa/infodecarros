@@ -29,6 +29,7 @@
 <p>⭐ Se você gostou do projeto, não se esqueça de deixar uma estrela no repositório! 🌟</p>
 
 <hr>
+
 ![Image](https://github.com/user-attachments/assets/4fc8c2de-a409-4349-92fd-786187f992d6)
 
 ![Image](https://github.com/user-attachments/assets/9757b2fe-dc80-4140-9cf8-35dc37ba9959)
