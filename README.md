@@ -1,31 +1,34 @@
-📌 Car Dealership Management System in C++
-🚗 Sistema de Gerenciamento de Concessionária em C++ 🚗
 
-Este repositório contém um sistema completo de gerenciamento de concessionária, desenvolvido em C++, projetado para demonstrar domínio avançado da linguagem, incluindo alocação dinâmica de memória, manipulação de arquivos binários e integração com CSV.
+<h2>Sistema de Gerenciamento de Concessionária em C++ </h2>
 
-🛠️ Funcionalidades:
-✅ Adicionar novos carros ao sistema
-✅ Remover veículos do estoque
-✅ Pesquisar veículos por diferentes critérios
-✅ Importar e exportar dados através de arquivos CSV
-✅ Armazenamento otimizado com arquivos binários
-✅ Gerenciamento eficiente da memória com alocação dinâmica
+<p>Este repositório contém um sistema completo de gerenciamento de concessionária, desenvolvido em C++, projetado para demonstrar domínio avançado da linguagem, incluindo alocação dinâmica de memória, manipulação de arquivos binários e integração com CSV.</p>
 
-📂 Estrutura do Projeto:
-main.cpp → Código principal do sistema
-carros_dados_completos.csv → Arquivo CSV para importação/exportação de veículos
+<p>🛠️ Funcionalidades:</p>
+<ul>
+<li>✅ Adicionar novos carros ao sistema</li>
+<li>✅ Remover veículos do estoque</li>
+<li>✅ Pesquisar veículos por diferentes critérios</li>
+<li>✅ Importar e exportar dados através de arquivos CSV</li>
+<li>✅ Armazenamento otimizado com arquivos binários</li>
+<li>✅ Gerenciamento eficiente da memória com alocação dinâmica</li>
+</ul>
+<p><b>📂 Estrutura do Projeto:</b></p>
+<ul>
+<li>main.cpp → Código principal do sistema</li>
+<li>carros_dados_completos.csv → Arquivo CSV para importação/exportação de veículos</li>
+</ul>
+<p>🛠️ Tecnologias Utilizadas:</p>
+<ul>
+<li>🚀 C++ Moderno (Padrões C++11/C++17)</li>
+<li>📂 Manipulação de arquivos (binário e CSV)</li>
+<li>🔄 Alocação dinâmica de memória</li>
+<li>📊 Estruturas de dados eficientes</li>
+</ul>
+<p>📩 Entre em contato se tiver dúvidas ou sugestões!</p>
 
-🛠️ Tecnologias Utilizadas:
-🚀 C++ Moderno (Padrões C++11/C++17)
-📂 Manipulação de arquivos (binário e CSV)
-🖥️ Programação Orientada a Objetos (POO)
-🔄 Alocação dinâmica de memória
-📊 Estruturas de dados eficientes
+<p>⭐ Se você gostou do projeto, não se esqueça de deixar uma estrela no repositório! 🌟</p>
 
-📩 Entre em contato se tiver dúvidas ou sugestões!
-
-⭐ Se você gostou do projeto, não se esqueça de deixar uma estrela no repositório! 🌟
-
+<hr>
 ![Image](https://github.com/user-attachments/assets/4fc8c2de-a409-4349-92fd-786187f992d6)
 
 ![Image](https://github.com/user-attachments/assets/9757b2fe-dc80-4140-9cf8-35dc37ba9959)
